@@ -1,4 +1,4 @@
-Démarche qualité et amélioration continue de la plateforme IRIS pôle Robotique
+Plateforme Imagerie, Robotique et Innovation en Santé (IRIS) pôle Robotique
 ==============================================================================
 
 
@@ -16,6 +16,7 @@ Table des matières
    :caption: Processus:
 
    Cartographie_Processus
+   FicheIdentiteProcessus
    M1_Direction
    M2_StrategiePilotage
    M3_DMQ
@@ -31,10 +32,5 @@ Table des matières
    S5_GestionMaterielConsommable
    S6_GestionHygieneSecurite
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
    

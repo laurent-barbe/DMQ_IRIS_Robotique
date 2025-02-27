@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.excel',
+    'sphinxcontrib.xlsxtable',
 ]
 
 intersphinx_mapping = {
