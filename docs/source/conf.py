@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DMQ IRIS Robotique'
+copyright = '2025, ICube, University of Strasbourg'
+author = 'Laurent Barbé'
 
 release = '0.1'
 version = '0.1.0'

@@ -2,21 +2,38 @@ Démarche qualité et amélioration continue de la plateforme IRIS pôle Robotiq
 ==============================================================================
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
-   This project is under active development.
+   Ce projet est en cours de développement.
 
-Contents
---------
+.. include:: overview.rst
+
+Table des matières
+==================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Processus:
 
-   usage
-   api
+   M1_Direction
+   M2_StrategiePilotage
+   M3_DMQ
+   R1_RealiserProjet
+   R2_Mettre_a_disposition
+   R3_R&D 
+   R4_Formation
+   R5_Valorisation
+   S1_GestionRH
+   S2_GestionInfrastructure
+   S3_GestionFinanciere
+   S4_GestionInformatique
+   S5_GestionMaterielConsommable
+   S6_GestionHygieneSecurite
 
+Indices and tables
+==================
 
-   docs/M1_Direction
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
    
