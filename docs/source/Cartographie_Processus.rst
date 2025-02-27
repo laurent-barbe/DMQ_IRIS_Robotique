@@ -4,4 +4,9 @@ Cartographie des Processus
 
 .. _installation:
 
-![My Diagram](CartoProcessus.svg)
+
+
+[![Test Embedding draw.io](./source/CartographieProcessus/CartoProcessus.svg)]
+
+
+
