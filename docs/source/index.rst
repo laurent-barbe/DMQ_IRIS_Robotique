@@ -15,22 +15,22 @@ Table des matières
    :maxdepth: 2
    :caption: Processus:
 
-   Cartographie_Processus
-   FicheIdentiteProcessus
-   M1_Direction
-   M2_StrategiePilotage
-   M3_DMQ
-   R1_RealiserProjet
-   R2_Mettre_a_disposition
-   R3_R&D 
-   R4_Formation
-   R5_Valorisation
-   S1_GestionRH
-   S2_GestionInfrastructure
-   S3_GestionFinanciere
-   S4_GestionInformatique
-   S5_GestionMaterielConsommable
-   S6_GestionHygieneSecurite
+   Cartographie_Processus/index
+   FicheIdentiteProcessus/index
+   M1_Direction/index
+   M2_StrategiePilotage/index
+   M3_DMQ/index
+   R1_RealiserProjet/index
+   R2_Mettre_a_disposition/index
+   R3_R&D/index
+   R4_Formation/index
+   R5_Valorisation/index
+   S1_GestionRH/index
+   S2_GestionInfrastructure/index
+   S3_GestionFinanciere/index
+   S4_GestionInformatique/index
+   S5_GestionMaterielConsommable/index
+   S6_GestionHygieneSecurite/index
 
 
    

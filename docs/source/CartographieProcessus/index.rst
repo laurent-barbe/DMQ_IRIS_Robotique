@@ -4,7 +4,7 @@ Cartographie des Processus
 
 .. _installation:
 
-.. figure:: ./CartographieProcessus/CartoProcessus.svg
+.. figure:: ./CartoProcessus.svg
    :width: 100%
 
 
